@@ -1,0 +1,3 @@
+Usuario{numeroCedula='1231231412', nombreCompleto='Ronald Puruncajas', correoElectronico='ronalg@gmail.com', numeroCelular='00919283', nickname='ronaldpg'}
+Usuario{numeroCedula='', nombreCompleto='', correoElectronico='', numeroCelular='', nickname=''}
+Usuario{numeroCedula='', nombreCompleto='', correoElectronico='', numeroCelular='', nickname=''}
